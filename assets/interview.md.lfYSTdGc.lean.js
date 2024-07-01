@@ -1,0 +1,1 @@
+import{_ as e,m as t,l as r}from"./chunks/framework.CYyfuRgi.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview.md","filePath":"interview.md"}'),a={name:"interview.md"};function n(i,o,s,c,p,_){return r(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};
